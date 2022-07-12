@@ -1,0 +1,18 @@
+/* 
+  Localizable.string.strings
+  MarvelApp
+
+  Created by Alvaro Orti Moreno on 29/6/22.
+  
+*/
+
+"closeButton_title" = "Cerrar";
+"offline_title" = "Estas en modo offline";
+"search" = "Buscar...";
+"noResults" = "No se han encontrado resultados";
+
+"characterList_title" = "Marvel List";
+"characterDetail_title" = "Detalle";
+
+"alertConnectionError_message" = "Ha ocurrido un error, trate de recargar la página";
+"alertConnectionError_message" = "No hay conexión a internet, revise su conexión y recargue la página";
